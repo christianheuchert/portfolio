@@ -608,11 +608,11 @@ section {
 }
 .portfolio .portfolio-wrap .portfolio-info h4 {
   font-size: 20px;
-  color: #7e8da6;
+  color: #fef8f5;
   font-weight: 600;
 }
 .portfolio .portfolio-wrap .portfolio-info p {
-  color: #7e8da6;
+  color: #fef8f5;
   font-size: 14px;
   text-transform: uppercase;
 }
@@ -705,7 +705,7 @@ section {
   padding: 0;
   line-height: 1;
   font-weight: 600;
-  color: #fef8f5;
+  color: rgba(0, 0, 0);
 }
 #footer .footer-newsletter form {
   margin-top: 30px;
